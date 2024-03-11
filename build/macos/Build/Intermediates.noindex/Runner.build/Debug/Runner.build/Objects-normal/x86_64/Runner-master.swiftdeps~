@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1710175559, 240643024]
+build_end_time: [1710175568, 857383966]
+inputs:
+  "/Users/admin/Desktop/Studing/6 sem/\u0434\u043E\u0434\u0430\u0442\u043A\u0438/mobileLab1DartFlutter/macos/Flutter/GeneratedPluginRegistrant.swift": [1710175517, 833682060]
+  "/Users/admin/Desktop/Studing/6 sem/\u0434\u043E\u0434\u0430\u0442\u043A\u0438/mobileLab1DartFlutter/macos/Runner/AppDelegate.swift": [1710175471, 117112159]
+  "/Users/admin/Desktop/Studing/6 sem/\u0434\u043E\u0434\u0430\u0442\u043A\u0438/mobileLab1DartFlutter/macos/Runner/MainFlutterWindow.swift": [1710175471, 125552654]
